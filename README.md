@@ -5,6 +5,8 @@ Sistema de apoio à organização do 1º Hackathon do curso de Ciência da Compu
 Projeto Integrador da disciplina de **Engenharia de Software I** (Profa. Lauriana Paludo — turma BCC.2).
  
 > Status atual: **Sprint 0 — Descoberta concluída.** Elicitação de requisitos e prototipação em andamento (Semanas 3–6).
+
+Link do prototipo: https://app.quant-ux.com/#/test.html?h=a2aa10akv5D7oEZYsGucCqkJa3ENuIDONW07ug3gZgKCszcyp3fimlUdWOqy&ln=en
  
 ## Equipe
  
