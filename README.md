@@ -9,7 +9,7 @@ Ciência da Computação — IFPR, Campus Pinhais
 ![Metodologia](https://img.shields.io/badge/metodologia-Kanban-2F6F68?style=for-the-badge)
 ![Disciplina](https://img.shields.io/badge/engenharia%20de%20software-I-14213D?style=for-the-badge)
 
-[🎨 Ver protótipo da interface](https://app.quant-ux.com/#/test.html?h=a2aa10akv5D7oEZYsGucCqkJa3ENuIDONW07ug3gZgKCszcyp3fimlUdWOqy&ln=en) · [📋 Backlog](#️-backlog-inicial) · [🔄 Processo](#-processo-de-desenvolvimento)
+[🎨 Ver protótipo da interface](https://www.figma.com/proto/QS1GKDNAEhnb1yGT2AE05r/HackFlow-%E2%80%93-IFPR-Campus-Pinhais?node-id=1-2&p=f&t=KCOmZhu1FK5gHDVr-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) · [📋 Backlog](#️-backlog-inicial) · [🔄 Processo](#-processo-de-desenvolvimento)
 
 </div>
 
