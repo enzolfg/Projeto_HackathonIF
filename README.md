@@ -78,7 +78,7 @@ O protótipo navegável da interface foi desenvolvido no Quant-UX e pode ser ace
 
 <div align="center">
 
-### [🎨 Abrir protótipo interativo →](https://app.quant-ux.com/#/test.html?h=a2aa10akv5D7oEZYsGucCqkJa3ENuIDONW07ug3gZgKCszcyp3fimlUdWOqy&ln=en)
+### [🎨 Abrir protótipo interativo →] (https://www.figma.com/proto/QS1GKDNAEhnb1yGT2AE05r/HackFlow-%E2%80%93-IFPR-Campus-Pinhais?node-id=1-2&p=f&t=KCOmZhu1FK5gHDVr-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 </div>
 
